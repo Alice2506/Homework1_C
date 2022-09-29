@@ -1,0 +1,15 @@
+C:\Users\lenovo\Desktop\Seminar1_C#\Game_GuessNumber\obj\Debug\net6.0\Game_GuessNumber.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Seminar1_C#\Game_GuessNumber\obj\Debug\net6.0\Game_GuessNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Seminar1_C#\Game_GuessNumber\obj\Debug\net6.0\Game_GuessNumber.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Seminar1_C#\Game_GuessNumber\obj\Debug\net6.0\Game_GuessNumber.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Seminar1_C#\Game_GuessNumber\obj\Debug\net6.0\Game_GuessNumber.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Seminar1_C#\Game_GuessNumber\bin\Debug\net6.0\Game_GuessNumber.exe
+C:\Users\lenovo\Desktop\Seminar1_C#\Game_GuessNumber\bin\Debug\net6.0\Game_GuessNumber.deps.json
+C:\Users\lenovo\Desktop\Seminar1_C#\Game_GuessNumber\bin\Debug\net6.0\Game_GuessNumber.runtimeconfig.json
+C:\Users\lenovo\Desktop\Seminar1_C#\Game_GuessNumber\bin\Debug\net6.0\Game_GuessNumber.dll
+C:\Users\lenovo\Desktop\Seminar1_C#\Game_GuessNumber\bin\Debug\net6.0\ref\Game_GuessNumber.dll
+C:\Users\lenovo\Desktop\Seminar1_C#\Game_GuessNumber\bin\Debug\net6.0\Game_GuessNumber.pdb
+C:\Users\lenovo\Desktop\Seminar1_C#\Game_GuessNumber\obj\Debug\net6.0\Game_GuessNumber.dll
+C:\Users\lenovo\Desktop\Seminar1_C#\Game_GuessNumber\obj\Debug\net6.0\ref\Game_GuessNumber.dll
+C:\Users\lenovo\Desktop\Seminar1_C#\Game_GuessNumber\obj\Debug\net6.0\Game_GuessNumber.pdb
+C:\Users\lenovo\Desktop\Seminar1_C#\Game_GuessNumber\obj\Debug\net6.0\Game_GuessNumber.genruntimeconfig.cache
